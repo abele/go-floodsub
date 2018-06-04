@@ -21,9 +21,9 @@
     },
     {
       "author": "whyrusleeping",
-      "hash": "Qmbok4DkFi1nFBgM6ZPUM7BMGsUt6iYEdSdStCksQNLEeM",
+      "hash": "QmY6iAoG9DVgZwh5ZRcQEpa2uErAe1Hbei8qXPCjpDS9Ge",
       "name": "go-libp2p",
-      "version": "5.0.20"
+      "version": "5.0.21"
     }
   ],
   "gxVersion": "0.9.0",
@@ -31,6 +31,6 @@
   "license": "",
   "name": "go-libp2p-floodsub",
   "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
-  "version": "0.9.16"
+  "version": "0.9.17"
 }
 
